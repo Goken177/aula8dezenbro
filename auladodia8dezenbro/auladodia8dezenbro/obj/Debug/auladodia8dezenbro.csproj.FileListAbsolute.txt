@@ -1,0 +1,12 @@
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\bin\Debug\auladodia8dezenbro.exe.config
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\bin\Debug\auladodia8dezenbro.exe
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\bin\Debug\auladodia8dezenbro.pdb
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.csproj.AssemblyReference.cache
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.csproj.SuggestedBindingRedirects.cache
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.Form1.resources
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.Properties.Resources.resources
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.csproj.GenerateResource.cache
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.csproj.CoreCompileInputs.cache
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.exe
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.pdb
+C:\Users\samuel.varaujo\source\repos\auladodia8dezenbro\auladodia8dezenbro\obj\Debug\auladodia8dezenbro.Form2.resources
